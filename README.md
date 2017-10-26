@@ -1,4 +1,3 @@
 # hello-world
 My first repository
-THis is my first commit. Im doing it while at work. Kids gotta get paid. Bright future young G. Potato chips.
-WHYY
+This is my second commit. I had to clean up the mess I made from all the potato chips.
